@@ -3,8 +3,9 @@ A structured-oriented interactive app that creates the experience of using the r
 
 
 ## :pushpin: General Information
-Use this app in Polish, English, German or French to withdraw virtual money or check your account balance.
+Use this app in Polish, English, German or French to withdraw virtual money or check your account balance.  
 
+*This is a copy of an interactive app created by me [here](https://github.com/AgnieszkaAureliaMarczak/Podstawy/tree/master/src/metody/bankomat).*
 
 ## :pushpin: Features
 :point_right: Four operation languages
