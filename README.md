@@ -5,7 +5,7 @@ A structured-oriented interactive app that creates the experience of using the r
 ## :pushpin: General Information
 Use this app in Polish, English, German or French to withdraw virtual money or check your account balance.  
 
-*This is a copy of an interactive app created by me [here](https://github.com/AgnieszkaAureliaMarczak/Podstawy/tree/master/src/metody/bankomat).*
+*This is a copy of an interactive game created by me [here](https://github.com/AgnieszkaAureliaMarczak/Podstawy/tree/master/src/metody/bankomat).*
 
 ## :pushpin: Features
 :point_right: Four operation languages
@@ -18,8 +18,10 @@ Use this app in Polish, English, German or French to withdraw virtual money or c
 
 
 ## :pushpin: How To Use
-:point_right: Clone the repository using [Git](https://git-scm.com/), then run it on your computer. 
-You can set up the initial app settings in the "Operacje" class: :point_left:
+:point_right: Clone the repository using [Git](https://git-scm.com/), then run it on your computer  
+:point_right: Pro-Tip: for best functionality use [the Corretto-17 Oracle OpenJDK version 17](https://www.oracle.com/pl/java/technologies/downloads/#java17)  
+
+:point_right: You can set up the initial app settings in the "Operacje" class: :point_left:
 
 
 ![ATM_settings](https://github.com/AgnieszkaAureliaMarczak/ATM_interactive_cash_withdrawal/assets/139965402/e9c9bfc1-3a4b-48fc-8d16-3e6e2d743482)
@@ -31,4 +33,4 @@ You can set up the initial app settings in the "Operacje" class: :point_left:
 
 :point_down: Pro-Tip :point_down:
 
-For BLIK withdrawal, enter any 4-digit number as the BLIK code.
+For BLIK withdrawal, enter any 4-digit number as the BLIK code
