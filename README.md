@@ -1,5 +1,5 @@
 # :money_with_wings: ATM - virtual cash withdrawal programme :money_with_wings:
-A structured-oriented interactive app that creates the experience of using the real-world cash machine.
+A structure-oriented interactive app that creates the experience of using the real-world cash machine.
 
 
 ## :pushpin: General Information
