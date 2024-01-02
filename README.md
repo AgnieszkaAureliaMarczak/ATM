@@ -5,8 +5,8 @@ A structure-oriented interactive app that creates the experience of using the re
 ## :pushpin: General Information
 Use this app in Polish, English, German or French to withdraw virtual money or check your account balance.  
 
-*This is a copy of an interactive game created by me [here](https://github.com/AgnieszkaAureliaMarczak/Podstawy/tree/master/src/metody/bankomat).*  
-I designed it to practice mathematical algorithms and structured programming principles.
+*This is a copy of an interactive game created by me [here](https://github.com/AgnieszkaAureliaMarczak/Podstawy/tree/master/src/metody/bankomat). I designed it to practice mathematical algorithms and structured programming principles.*  
+
 
 ## :pushpin: Features
 :point_right: Four operation languages
