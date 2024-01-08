@@ -20,6 +20,7 @@ Use this app in Polish, English, German or French to withdraw virtual money or c
 
 ## :pushpin: How To Use
 :point_right: Clone the repository using [Git](https://git-scm.com/), then run it on your computer  
+
 :point_right: Pro-Tip: for best functionality use [the Corretto-17 Oracle OpenJDK version 17](https://www.oracle.com/pl/java/technologies/downloads/#java17)  
 
 :point_right: You can set up the initial app settings in the "Operacje" class: :point_left:
